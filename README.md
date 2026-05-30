@@ -32,12 +32,12 @@
 
 ---
 <h3 align="center">My Statistics:</h3>
-<!-- <p align="center">
+  <!-- <p align="center"> 
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
 
-  <p align="center">
+  <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sutarkumar&show_icons=true&theme=radical" />
 </p>
   <br></br>
@@ -48,11 +48,23 @@
 <td width="50%" align="center">
 
   <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chanukaa2002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>-->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sutarkumar&layout=compact)
+ <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sutarkumar&layout=compact)
 
   </td>
 </tr>
 </table> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sutarkumar&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutarkumar&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutarkumar&layout=compact&theme=radical" />
+</p>
 
 ---
 
