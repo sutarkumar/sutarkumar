@@ -111,11 +111,31 @@
 </p>
 
 
-## 📈 GitHub Analytics
+
+
+
+---
+
+
+
+
+ <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sutarkumar&theme=react-dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=sutarkumar&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=sutarkumar&theme=vision-friendly-dark&hide_border=false" />
 </p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sutarkumar&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+
+
+  
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!-- <p align="center">
@@ -143,7 +163,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
 </p>
 
 <h3 align="center">
@@ -178,7 +198,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutarkumar&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutarkumar&theme=dark" width="500"/>
 </p>
 
 
