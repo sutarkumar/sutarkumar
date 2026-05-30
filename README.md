@@ -1,9 +1,82 @@
+<p style="display: inline-block;" align="center">
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
+    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Outros</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  </kbd>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sutarkumar&label=Profile%20Views&color=blueviolet" />
+</p>
+
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FF00FF&height=220&section=header&text=Sutar%20Kumar&fontSize=50&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<!-- <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=IT+Undergraduate+at+KIET;Backend+Developer;Flutter+Developer;Node.js+%7C+Express.js;Always+Learning+New+Things+🚀" />
+</p> -->
+
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Sutar Kumar</h1>
 <h3 align="center"> IT Undergraduate | Exploring the Boundless World of Technology</h3>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sutarkumar&label=Profile%20views&color=0e75b6&style=flat" alt="sutarkumar" /> 
-</p>
+
 
 
 ---
@@ -32,6 +105,50 @@
 
 ---
 <h3 align="center">My Statistics:</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+</p>
+
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sutarkumar&theme=react-dark&hide_border=true" />
+</p>
+
+
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sutarkumar&theme=github_dark" />
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sutarkumar&theme=radical&no-frame=true&row=2&column=4" />
+</p> -->
+
+
+<!-- <p align="center">
+  <img src="https://metrics.lecoq.io/sutarkumar?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0" />
+</p> -->
+
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sutarkumar&theme=radical" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/docs/example/profile-green-animate.svg" />
+</p> -->
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400">
+</p>
+
+<h3 align="center">
+  "First, solve the problem. Then, write the code."
+</h3>
   <!-- <p align="center"> 
 <table align="center">
 <tr border="none">
@@ -54,17 +171,19 @@
 </tr>
 </table> -->
 
-<p align="center">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sutarkumar&show_icons=true&theme=radical" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutarkumar&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutarkumar&layout=compact&theme=radical" />
-</p>
+
+
+
 
 ---
 
@@ -95,6 +214,53 @@
 ---
 
 # 💻 **Tech Stack & Skills**
+<div align= "center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
+</div>
+
+<br>
+  
+<p style="display: inline-block;" align="center">
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
+    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Outros</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  </kbd>
+  <br>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c++,python,javascript,c,cs" />
