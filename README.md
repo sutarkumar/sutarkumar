@@ -66,7 +66,7 @@
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FF00FF&height=220&section=header&text=Sutar%20Kumar&fontSize=50&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FF00FF&height=220&section=header&text=🚀%20Welcome%20to%20My%20GitHub%20Profile&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <!-- <p align="center">
