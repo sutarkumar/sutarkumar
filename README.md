@@ -169,6 +169,70 @@
 <h3 align="center">
   "First, solve the problem. Then, write the code."
 </h3>
+
+<div align="center">
+
+  <!-- Large Brand Pill -->
+<div align="center">
+  <a href="https://leetcode.com/u/Chaudhary__/">
+    <img src="https://img.shields.io/static/v1?label=LEETCODE&message=Chaudhary__&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" height="38" />
+  </a>
+  <a href="https://leetcode.com/u/Chaudhary__/">
+    <img src="https://img.shields.io/static/v1?label=DSA%20GRID&message=ACTIVE%20STREAK&color=00FF66&style=for-the-badge&logo=lightning&logoColor=00FF66&labelColor=0d1117" height="38" />
+  </a>
+</div>
+
+  <br/><br/>
+
+  <!-- Bigger Side-by-Side Cards -->
+<div align="center">
+
+  <!-- Glow effect table container -->
+<div align="center">
+
+  <!-- Top Glowing Header Line -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=80&section=header" width="100%" />
+
+  <br/>
+
+  <!-- Glowing Capsule Header -->
+  <a href="https://leetcode.com/u/Chaudhary__/">
+    <img src="https://img.shields.io/badge/LeetCode-Chaudhary__-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="36" />
+    <img src="https://img.shields.io/badge/DSA-Active%20Streak-00FF66?style=for-the-badge&logo=codeforces&logoColor=black" height="36" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Side-by-Side Cards (GitHub Safe Table) -->
+ <!-- Bigger Side-by-Side Cards -->
+<table border="0" style="border: none; background: transparent;">
+<tr style="border: none; background: transparent;">
+<!-- Left: Problems Solved Stats -->
+<td align="center" valign="middle" style="border: none; padding: 10px;">
+<a href="https://leetcode.com/u/Chaudhary__/">
+<img src="https://leetcard.jacoblin.cool/Chaudhary__?theme=dark&font=raleway&ext=activity" alt="Problems Solved" width="480" />
+</a>
+</td>
+<!-- Right: Submissions Heatmap -->
+<td align="center" valign="middle" style="border: none; padding: 10px;">
+<a href="https://leetcode.com/u/Chaudhary__/">
+<img src="https://leetcard.jacoblin.cool/Chaudhary__?theme=dark&font=raleway&ext=heatmap" alt="Heatmap" width="480" />
+</a>
+</td>
+</tr>
+</table>
+
+  <!-- Bottom Glowing Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12&height=70&section=footer" width="100%" />
+
+</div>
+
+  <!-- Dynamic Typing Subtitle -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&color=FFA116&center=true&vCenter=true&width=500&lines=Daily+Problem+Solver+%F0%9F%94%A5;Consistency+Over+Everything" alt="Typing SVG" />
+  </p>
+
+</div>
   <!-- <p align="center"> 
 <table align="center">
 <tr border="none">
@@ -329,4 +393,7 @@
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sutarkumar" />
   </a>
 </p>
+
+
+
 
