@@ -170,19 +170,6 @@
   "First, solve the problem. Then, write the code."
 </h3>
 
-<div align="center">
-
-  <!-- Large Brand Pill -->
-<div align="center">
-  <a href="https://leetcode.com/u/Chaudhary__/">
-    <img src="https://img.shields.io/static/v1?label=LEETCODE&message=Chaudhary__&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" height="38" />
-  </a>
-  <a href="https://leetcode.com/u/Chaudhary__/">
-    <img src="https://img.shields.io/static/v1?label=DSA%20GRID&message=ACTIVE%20STREAK&color=00FF66&style=for-the-badge&logo=lightning&logoColor=00FF66&labelColor=0d1117" height="38" />
-  </a>
-</div>
-
-  <br/><br/>
 
   <!-- Bigger Side-by-Side Cards -->
 <div align="center">
